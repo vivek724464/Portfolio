@@ -1,0 +1,9 @@
+@media screen  and (max-width: 1200px) {
+    .nav-toggle {
+        display: block;
+        margin: 20px;
+    }
+}
+html{
+    scroll-behavior: smooth;
+}
